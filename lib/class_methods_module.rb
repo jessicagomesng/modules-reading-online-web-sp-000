@@ -1,2 +1,2 @@
-module MetaDancing 
+module MetaDancing
 end 
